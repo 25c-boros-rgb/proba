@@ -29,13 +29,13 @@
 
 ---
 
-## 📌 Kiemelt projektek
+## 🤫
 
 | Projekt | Leírás | Technológia |
 |---------|--------|-------------|
-| **[Első projekt](https://github.com/your-username/project-one)** | Rövid leírás | Python, Flask |
-| **[Második projekt](https://github.com/your-username/project-two)** | Rövid leírás | React, Node.js |
-| **[Harmadik projekt](https://github.com/your-username/project-three)** | Rövid leírás | JavaScript |
+| **[Első projekt](https://earlylifecrisis.com)** | Rövid leírás | Python, Flask |
+| **[Második projekt](https://store.osamason.com/)** | Rövid leírás | React, Node.js |
+| **[Harmadik projekt](https://praiseche.com/collections/all)** | Rövid leírás | JavaScript |
 
 ---
 
