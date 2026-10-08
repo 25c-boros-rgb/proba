@@ -52,7 +52,3 @@
 - **E-mail:** 25c@gmail.com
 - **LinkedIn:** [linkedin.com/in/abcdefgh](https://linkedin.com/in/abcdefgh)
 - **Weboldal:** [menoknek](https://bleood.online/)
-
----
-
-Köszönet, hogy benéztél. Nézz szét a repóimban, és ha tetszik valami, egy csillagnak örülök.
