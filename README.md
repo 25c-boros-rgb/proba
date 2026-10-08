@@ -31,8 +31,8 @@
 
 ## 🤫
 
-| Projekt | Leírás | Technológia |
-|---------|--------|-------------|
+| Projekt |
+|---------|
 | **[1](https://earlylifecrisis.com)** |
 | **[2](https://store.osamason.com/)** |
 | **[3](https://praiseche.com/collections/all)** |
