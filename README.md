@@ -31,9 +31,9 @@
 
 | Ajánlat |
 |---------|
-| [1. fogás](https://earlylifecrisis.com) |
-| [2. fogás](https://store.osamason.com/) |
-| [3. fogás](https://praiseche.com/collections/all) |
+| [1.](https://earlylifecrisis.com) |
+| [2.](https://store.osamason.com/) |
+| [3.](https://praiseche.com/collections/all) |
 
 ---
 
