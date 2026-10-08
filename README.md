@@ -12,6 +12,7 @@
 - 🌱 **Új recept, amit tanulok:** [technológia / készség]
 - 💬 **Erről szívesen beszélgetek az asztalnál:** [témák, amikről szívesen beszélgetsz]
 - 🤝 **Közös főzésre jelentkezem:** [projektek típusa]
+-    **Az étterem neve: Fészek Bisztró
 - 📍 **Az étterem címe:** [Város, Ország]
 - ⚡ **A séf titka:** [valami emlékezetes rólad]
 
