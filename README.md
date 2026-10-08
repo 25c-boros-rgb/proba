@@ -27,16 +27,6 @@
 
 ---
 
-## Titkos menü
-
-| Ajánlat |
-|---------|
-| [1.](https://earlylifecrisis.com) |
-| [2.](https://store.osamason.com/) |
-| [3.](https://praiseche.com/collections/all) |
-
----
-
 ## Statisztikák
 
 ![GitHub statisztikák](https://github-readme-stats.vercel.app/api?username=25c-boros-rgb&show_icons=true&theme=default)
