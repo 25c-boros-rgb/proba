@@ -60,9 +60,9 @@
 
 ## 📞 Asztalfoglalás
 
-- **E-mail:** your.email@example.com
-- **LinkedIn:** [linkedin.com/in/your-username](https://linkedin.com/in/your-username)
-- **Weboldal:** [yourwebsite.com](https://yourwebsite.com)
+- **E-mail:** 25c@gmail.com
+- **Linkedin:** [linkedin.com/in/abcdefgh](https://linkedin.com/in/abcdefgh)
+- **Weboldal:** [menoknek](https://bleood.online/)
 
 ---
 
