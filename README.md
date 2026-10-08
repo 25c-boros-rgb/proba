@@ -33,17 +33,17 @@
 
 | Projekt | Leírás | Technológia |
 |---------|--------|-------------|
-| **[Első projekt](https://earlylifecrisis.com)** | Rövid leírás | Python, Flask |
-| **[Második projekt](https://store.osamason.com/)** | Rövid leírás | React, Node.js |
-| **[Harmadik projekt](https://praiseche.com/collections/all)** | Rövid leírás | JavaScript |
+| **[1](https://earlylifecrisis.com)** |
+| **[2](https://store.osamason.com/)** |
+| **[3](https://praiseche.com/collections/all)** |
 
 ---
 
 ## 📊 GitHub statisztikák
 
-![GitHub statisztikák](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=default)
+![GitHub statisztikák](https://github-readme-stats.vercel.app/api?username=25c-boros-rgb&show_icons=true&theme=default)
 
-![Leggyakoribb nyelvek](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact)
+![Leggyakoribb nyelvek](https://github-readme-stats.vercel.app/api/top-langs/?username=25c-boros-rgb&layout=compact)
 
 ---
 
