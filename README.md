@@ -1,29 +1,16 @@
-# Üdvözöllek az éttermemben
-
----
-
-## A séf
-
-- **Most ezen dolgozom:** [projekt neve]
-- **Most ezt tanulom:** [technológia / készség]
-- **Kérdezz tőlem erről:** [témák]
-- **Szívesen csatlakozom:** [projektek típusa]
-- **Hely:** [Város, Ország]
-- **Egy érdekesség:** [valami rólad]
+# Üdvözöllek a Fészek Bisztróban
 
 ---
 
 ## Étlap
 
-**Előétel (nyelvek):** `Python` `JavaScript` `TypeScript` `Java` `C++`
+**Előétel:** `Hortobágyi húsos palacsinta` `Klasszikus tatár beefsteak` `Házias kacsazsír-variációk` `Rántott camembert sajt`
 
-**Főétel (frontend):** `React` `HTML` `CSS` `Tailwind`
+**Főétel:** `Cigánypecsenye tarjábó` `Omlós kacsacomb` `Rántott csirkemell sirakukorica-bundában` `Marhapörkölt vörösborral`
 
-**Specialitás (backend):** `Node.js` `Django` `Flask` `Express`
+**Specialitás:** `Kárpáti borzaska` `Konfitált oldalas barbecue mogyorókérgeken` `Tiszai harcsapaprikás túrós csuszával` `Szarvascombszeletek áfonyás-vörösboros mártásban`
 
-**Köret (adatbázisok):** `PostgreSQL` `MongoDB` `SQLite`
-
-**Konyhai eszközök:** `Git` `Docker` `Linux` `VS Code`
+**Köret:** `Petrezselymes burgonya` `Fűszeres tepsis burgonyagerezdek` `Házias galuska`
 
 ---
 
@@ -31,12 +18,9 @@
 
 ![GitHub statisztikák](https://github-readme-stats.vercel.app/api?username=25c-boros-rgb&show_icons=true&theme=default)
 
-![Leggyakoribb nyelvek](https://github-readme-stats.vercel.app/api/top-langs/?username=25c-boros-rgb&layout=compact)
-
 ---
 
 ## Asztalfoglalás
 
 - **E-mail:** 25c@gmail.com
-- **LinkedIn:** [linkedin.com/in/abcdefgh](https://linkedin.com/in/abcdefgh)
-- **Weboldal:** [menoknek](https://bleood.online/)
+- **Weboldal:** [Weboldal](https://etlap.com)
