@@ -69,6 +69,6 @@
 
 ## 🧾 A számla
 
-*A vendéglátás ingyenes, de egy ⭐ borravalónak nagyon örülök!*
+*A vendéglátás 49.999 ft, és egy ⭐ borravalónak nagyon örülök!*
 
 🍰 **Köszönöm, hogy betértél!** Nézz körül nyugodtan a repóim között, és jöjj máskor is!
