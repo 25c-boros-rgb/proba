@@ -1,7 +1,5 @@
 # Üdvözöllek az éttermemben
 
-> **[Egy mondatos bemutatkozás]**
-
 ---
 
 ## A séf
