@@ -14,12 +14,6 @@
 
 ---
 
-## Statisztikák
-
-![GitHub statisztikák](https://github-readme-stats.vercel.app/api?username=25c-boros-rgb&show_icons=true&theme=default)
-
----
-
 ## Asztalfoglalás
 
 - **E-mail:** 25c@gmail.com
